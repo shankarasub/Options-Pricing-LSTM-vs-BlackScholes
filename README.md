@@ -22,7 +22,7 @@ HOW THE MODELS WORK:
 
 The Black-Scholes model is an analytical solution for pricing European call and put options. It takes into account the stock price, strike price, volatility, time to expiry, and the risk-free interest rate to calculate the theoretical option price.
 
-3. LSTM Model:
+2. LSTM Model:
    
 An LSTM model is a type of recurrent neural network (RNN) suitable for time series prediction. This project uses an LSTM model to predict future stock prices based on historical stock data, and these predictions are used to estimate the option price.
 
