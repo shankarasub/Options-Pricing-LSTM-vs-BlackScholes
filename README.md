@@ -15,7 +15,7 @@ The Black-Scholes model is an analytical solution for pricing European call and 
 2. LSTM Model:
 An LSTM model is a type of recurrent neural network (RNN) suitable for time series prediction. This project uses an LSTM model to predict future stock prices based on historical stock data, and these predictions are used to estimate the option price.
 
-Technologies Used
+TECHNOLOGIS USED:
 Python: Main programming language.
 Streamlit: For building the web app interface.
 yFinance: For fetching historical stock price data.
