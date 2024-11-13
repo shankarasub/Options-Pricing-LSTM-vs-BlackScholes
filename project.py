@@ -92,7 +92,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Main App Title
-st.markdown('<h1 style="color: red;">Options Pricing App</h1>', unsafe_allow_html=True)
+st.markdown('<h1 style="color: red;">Options Pricing Black Scholes vs LSTM</h1>', unsafe_allow_html=True)
 assets = ["AAPL", "MSFT", "GOOGL", "AMZN", "TSLA", "NFLX", "META", "NVDA", "BABA", "INTC", "CSCO", "CMCSA", "PEP",
           "ADBE", "AVGO", "TXN", "QCOM", "TMUS", "VZ", "T", "AMAT", "MU", "ADI", "LRCX", "MRVL", "TSM", "ASML",
           "AMZN", "IBM", "ORCL", "CRM", "PYPL", "ACN", "UBER", "SQ", "SHOP", "DOCU", "WORK", "TWLO", "OKTA",
